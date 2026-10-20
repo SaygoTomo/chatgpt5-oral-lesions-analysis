@@ -1,0 +1,21 @@
+# Never commit patient-level data, clinical records, or case-level model outputs.
+data/*
+!data/README.md
+results*/
+private*/
+*.xlsx
+*.xls
+*.xlsm
+*.dta
+*.sav
+*.parquet
+*.pkl
+*.pickle
+*.docx
+*.pdf
+.DS_Store
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+.env
