@@ -1,0 +1,55 @@
+case_id,repetition,challenge_score,clinical_class,pathologic_class,biopsy_recorded,I1,I2,I3,I4,I5,I6,I7,I8,I9
+SYN001,1,7,White lesion,Malignant neoplasms,1,2,0,2,1,3,1,2,0,2
+SYN001,2,7,White lesion,Malignant neoplasms,1,0,1,1,2,2,0,2,1,0
+SYN001,3,7,White lesion,Malignant neoplasms,1,2,2,0,0,1,0,3,1,0
+SYN002,1,9,Nodular lesions,Inflammatory,1,1,0,0,3,3,1,2,0,3
+SYN002,2,9,Nodular lesions,Inflammatory,1,0,2,2,0,1,1,1,0,1
+SYN002,3,9,Nodular lesions,Inflammatory,1,2,1,0,3,0,1,3,0,3
+SYN003,1,22,Ulcerated lesions,OPMD,0,1,1,1,1,0,0,0,0,3
+SYN003,2,22,Ulcerated lesions,OPMD,0,1,1,0,2,1,1,2,1,3
+SYN003,3,22,Ulcerated lesions,OPMD,0,1,2,0,3,3,1,2,0,0
+SYN004,1,12,White lesion,Malignant neoplasms,1,1,2,1,0,3,0,3,1,0
+SYN004,2,12,White lesion,Malignant neoplasms,1,0,1,2,2,0,0,1,0,3
+SYN004,3,12,White lesion,Malignant neoplasms,1,1,1,0,1,3,0,3,0,0
+SYN005,1,18,Nodular lesions,Inflammatory,1,2,2,1,0,2,1,1,1,2
+SYN005,2,18,Nodular lesions,Inflammatory,1,0,0,1,1,0,0,2,1,1
+SYN005,3,18,Nodular lesions,Inflammatory,1,1,2,1,2,2,1,3,0,1
+SYN006,1,10,Ulcerated lesions,OPMD,0,0,1,0,0,2,1,3,1,2
+SYN006,2,10,Ulcerated lesions,OPMD,0,1,0,1,2,0,1,3,0,2
+SYN006,3,10,Ulcerated lesions,OPMD,0,0,1,1,2,3,1,0,1,2
+SYN007,1,14,White lesion,Malignant neoplasms,1,0,0,1,0,1,0,3,0,0
+SYN007,2,14,White lesion,Malignant neoplasms,1,0,2,1,0,1,1,1,0,2
+SYN007,3,14,White lesion,Malignant neoplasms,1,0,0,0,2,0,1,1,0,3
+SYN008,1,15,Nodular lesions,Inflammatory,1,2,1,2,1,2,0,1,1,1
+SYN008,2,15,Nodular lesions,Inflammatory,1,1,1,2,1,3,1,0,1,0
+SYN008,3,15,Nodular lesions,Inflammatory,1,0,2,0,3,1,1,2,1,2
+SYN009,1,20,Ulcerated lesions,OPMD,0,0,2,1,0,1,1,1,0,3
+SYN009,2,20,Ulcerated lesions,OPMD,0,1,2,0,1,1,1,1,1,0
+SYN009,3,20,Ulcerated lesions,OPMD,0,1,1,1,0,0,0,0,1,1
+SYN010,1,21,White lesion,Malignant neoplasms,1,0,2,2,3,2,1,3,0,1
+SYN010,2,21,White lesion,Malignant neoplasms,1,0,0,1,0,2,1,2,0,2
+SYN010,3,21,White lesion,Malignant neoplasms,1,0,0,2,2,0,0,0,0,0
+SYN011,1,23,Nodular lesions,Inflammatory,1,1,0,0,0,3,1,2,1,2
+SYN011,2,23,Nodular lesions,Inflammatory,1,1,0,0,0,0,1,1,0,2
+SYN011,3,23,Nodular lesions,Inflammatory,1,1,1,1,3,0,0,0,0,2
+SYN012,1,24,Ulcerated lesions,OPMD,0,1,1,0,1,3,0,0,1,1
+SYN012,2,24,Ulcerated lesions,OPMD,0,2,2,0,1,1,1,1,0,1
+SYN012,3,24,Ulcerated lesions,OPMD,0,1,0,0,3,3,0,0,1,2
+SYN013,1,12,White lesion,Malignant neoplasms,1,1,2,0,1,0,0,2,1,3
+SYN013,2,12,White lesion,Malignant neoplasms,1,1,0,2,0,3,0,3,1,2
+SYN013,3,12,White lesion,Malignant neoplasms,1,1,1,2,2,0,1,1,1,1
+SYN014,1,7,Nodular lesions,Inflammatory,1,2,1,2,1,1,0,0,1,1
+SYN014,2,7,Nodular lesions,Inflammatory,1,1,1,1,0,3,0,1,0,3
+SYN014,3,7,Nodular lesions,Inflammatory,1,0,1,1,3,1,1,1,1,2
+SYN015,1,15,Ulcerated lesions,OPMD,0,2,1,1,2,3,1,0,0,1
+SYN015,2,15,Ulcerated lesions,OPMD,0,1,0,0,0,1,0,2,0,2
+SYN015,3,15,Ulcerated lesions,OPMD,0,2,2,1,3,2,1,3,1,3
+SYN016,1,8,White lesion,Malignant neoplasms,1,0,2,1,2,1,0,2,0,2
+SYN016,2,8,White lesion,Malignant neoplasms,1,1,2,1,3,2,0,2,1,0
+SYN016,3,8,White lesion,Malignant neoplasms,1,1,1,1,0,3,0,2,1,0
+SYN017,1,22,Nodular lesions,Inflammatory,1,0,2,2,1,2,0,3,1,2
+SYN017,2,22,Nodular lesions,Inflammatory,1,2,1,0,1,3,0,1,1,1
+SYN017,3,22,Nodular lesions,Inflammatory,1,1,1,2,2,0,1,3,0,2
+SYN018,1,22,Ulcerated lesions,OPMD,0,0,2,0,0,3,0,2,1,2
+SYN018,2,22,Ulcerated lesions,OPMD,0,2,1,2,2,2,0,0,1,2
+SYN018,3,22,Ulcerated lesions,OPMD,0,0,2,1,2,2,1,1,1,3
